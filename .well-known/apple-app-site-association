@@ -1,0 +1,15 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "3F999XWS8H.com.omerenlicay.campingapp",
+        "paths": [
+          "/event/*",
+          "/guide/*",
+          "/community/*"
+        ]
+      }
+    ]
+  }
+}

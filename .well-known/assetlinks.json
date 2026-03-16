@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.omerenlicay.campingapp",
+      "sha256_cert_fingerprints": [
+        "AA:D2:DD:BC:53:11:28:A8:88:68:82:1F:5A:FB:53:79:99:B6:1E:BC:0B:6C:29:58:32:FF:7F:43:4D:C1:72:3A"
+      ]
+    }
+  }
+]
